@@ -47,6 +47,11 @@ Download an entire album:
 ```bash
 python bunkdl.py https://bunkr.cr/a/ALBUM_ID
 ```
+Search for a model:
+
+```bash
+python bunkdl.py -s
+```
 
 Download videos only:
 
